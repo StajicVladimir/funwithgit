@@ -10,5 +10,8 @@ public class Hello {
 		
 		Hero beardyBeard = new Hero("Beardy Beard");
 		beardyBeard.sayHi();
+		
+		Bartender barney = new Bartender("Barney");
+		barney.listAllDrinks();
 	}
 }
